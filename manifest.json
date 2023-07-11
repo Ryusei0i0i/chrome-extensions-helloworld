@@ -1,0 +1,13 @@
+{
+	"name": "Hello World!",
+	"manifest_version": 3,
+	"version": "0.1",
+	"action": {
+    "default_icon":{
+      "16": "images/taifuu_top.png",
+      "24": "images/taifuu_top.png",
+      "32": "images/taifuu_top.png"
+    },
+    "default_popup": "popup.html"
+  }
+}
